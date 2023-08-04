@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Poject_Firebase</string>
+    <string name="txtToRegister"><u>회원가입 이동</u></string>
+    <string name="txtToLogin"><u>로그인 이동</u></string>
+
+    <string-array name="alert_photo">
+        <item>카메라로 사직찍기</item>
+        <item>앨범에서 가져오기</item>
+    </string-array>
+</resources>
